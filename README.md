@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Teo986L
-- 👀 I’m interested in learn to code 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Teo986L/Teo986L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Teo986L
+- 👀 I'm interested in learn to code and create applications that solve real problems
+- 🌱 I'm currently learning JavaScript, HTML, CSS and building my first professional app "Trader BOT"
+- 💞️ I'm looking to collaborate on innovative projects that mix technology with creativity
+- 📫 How to reach me: [Seu email] ou através do meu GitHub
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I created a complete trading application with God's help, even while still learning!
